@@ -1,0 +1,506 @@
+[
+  {
+    "code": "21LEH101T",
+    "title": "Communicative English",
+    "category": "Foundational",
+    "department": "Humanities",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21MAB101T",
+    "title": "Calculus and Linear Algebra",
+    "category": "Foundational",
+    "department": "Mathematics",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21PYB102J",
+    "title": "Semiconductor Physics and Computational Methods",
+    "category": "Foundational",
+    "department": "Physics",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21MES102L",
+    "title": "Engineering Graphics and Design",
+    "category": "Foundational",
+    "department": "Mechanical Engineering",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21EES101T",
+    "title": "Electrical and Electronics Engineering",
+    "category": "Foundational",
+    "department": "Electrical Engineering",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21CSC101J",
+    "title": "Programming for Problem Solving",
+    "category": "Foundational",
+    "department": "Computer Science",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21CYM101T",
+    "title": "Environmental Science",
+    "category": "Foundational",
+    "department": "Chemistry",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21PDM101L",
+    "title": "Professional Skills and Practices",
+    "category": "Foundational",
+    "department": "Career Development",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21LEM101T",
+    "title": "Constitution of India",
+    "category": "Foundational",
+    "department": "Humanities",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21LEH102T",
+    "title": "Chinese",
+    "category": "Languages and Electives",
+    "department": "Languages",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21LEH103T",
+    "title": "French",
+    "category": "Languages and Electives",
+    "department": "Languages",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21LEH104T",
+    "title": "German",
+    "category": "Languages and Electives",
+    "department": "Languages",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21LEH105T",
+    "title": "Japanese",
+    "category": "Languages and Electives",
+    "department": "Languages",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21LEH106T",
+    "title": "Korean",
+    "category": "Languages and Electives",
+    "department": "Languages",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21LEH107T",
+    "title": "Spanish",
+    "category": "Languages and Electives",
+    "department": "Languages",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21LEH108T",
+    "title": "Russian",
+    "category": "Languages and Electives",
+    "department": "Languages",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21MAB104T",
+    "title": "Advanced Calculus and Complex Analysis",
+    "category": "Languages and Electives",
+    "department": "Mathematics",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21CYB101J",
+    "title": "Chemistry",
+    "category": "Languages and Electives",
+    "department": "Chemistry",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21BTB102T",
+    "title": "Introduction to Computational Biology",
+    "category": "Languages and Electives",
+    "department": "Biotechnology",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21AIS101L",
+    "title": "Foundation of Data Analysis",
+    "category": "Languages and Electives",
+    "department": "Data Science",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21MES101L",
+    "title": "Basic Civil and Mechanical Workshop",
+    "category": "Languages and Electives",
+    "department": "Mechanical Engineering",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21PDM102L",
+    "title": "General Aptitude",
+    "category": "Languages and Electives",
+    "department": "Career Development",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21GNH101J",
+    "title": "Philosophy of Engineering",
+    "category": "Languages and Electives",
+    "department": "General Engineering",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21GNH102L",
+    "title": "Physical and Mental Health using Yoga",
+    "category": "Languages and Electives",
+    "department": "General Studies",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21GNM101L",
+    "title": "National Service Scheme",
+    "category": "Languages and Electives",
+    "department": "General Studies",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21GNM102L",
+    "title": "National Cadet Corps",
+    "category": "Languages and Electives",
+    "department": "General Studies",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21GNM103L",
+    "title": "National Sports Organization",
+    "category": "Languages and Electives",
+    "department": "General Studies",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21MAB201T",
+    "title": "Transforms and Boundary Value Problems",
+    "category": "Intermediate",
+    "department": "Mathematics",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21DCS201P",
+    "title": "Design Thinking and Methodology",
+    "category": "Intermediate",
+    "department": "Design",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21CSS201T",
+    "title": "Computer Organization and Architecture",
+    "category": "Intermediate",
+    "department": "Computer Science",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21CSC201J",
+    "title": "Data Structures and Algorithms",
+    "category": "Intermediate",
+    "department": "Computer Science",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21CSC101T",
+    "title": "Object Oriented Design and Programming",
+    "category": "Intermediate",
+    "department": "Computer Science",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21CSC202J",
+    "title": "Operating Systems",
+    "category": "Intermediate",
+    "department": "Computer Science",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21CSC203P",
+    "title": "Advanced Programming Practice",
+    "category": "Intermediate",
+    "department": "Computer Science",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21LEM201T",
+    "title": "Professional Ethics",
+    "category": "Intermediate",
+    "department": "Humanities",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21PDM201L",
+    "title": "Verbal Reasoning",
+    "category": "Intermediate",
+    "department": "Career Development",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21MAB204T",
+    "title": "Probability and Applied Statistics",
+    "category": "Intermediate",
+    "department": "Mathematics",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21CSC204J",
+    "title": "Design and Analysis of Algorithms",
+    "category": "Intermediate",
+    "department": "Computer Science",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21CSC205P",
+    "title": "Foundation of Artificial Intelligence",
+    "category": "Intermediate",
+    "department": "Computer Science",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21AIAC202J",
+    "title": "Neural Networks and Machine Learning",
+    "category": "Intermediate",
+    "department": "Artificial Intelligence",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21PDH209T",
+    "title": "Social Engineering",
+    "category": "Intermediate",
+    "department": "Humanities",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21PDM202L",
+    "title": "Critical and Creative Thinking Skills",
+    "category": "Intermediate",
+    "department": "Career Development",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21LEM202T",
+    "title": "Universal Human Values-II: Understanding Harmony and Ethical Human Conduct",
+    "category": "Intermediate",
+    "department": "Humanities",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21MAB302T",
+    "title": "Discrete Mathematics",
+    "category": "Advanced",
+    "department": "Mathematics",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21CSC301T",
+    "title": "Formal Language and Automata",
+    "category": "Advanced",
+    "department": "Computer Science",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21CSC302P",
+    "title": "Database Management Systems",
+    "category": "Advanced",
+    "department": "Computer Science",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21CSC301J",
+    "title": "Computer Networks",
+    "category": "Advanced",
+    "department": "Computer Science",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21CSC305P",
+    "title": "Professional Elective",
+    "category": "Advanced",
+    "department": "Computer Science",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21AIAC301J",
+    "title": "Deep Learning Techniques",
+    "category": "Advanced",
+    "department": "Artificial Intelligence",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21GNP301L",
+    "title": "Community Connect",
+    "category": "Advanced",
+    "department": "General Studies",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21PDM301L",
+    "title": "Analytical and Logical Thinking Skills",
+    "category": "Advanced",
+    "department": "Career Development",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21LEM301T",
+    "title": "Indian Art Form",
+    "category": "Advanced",
+    "department": "Humanities",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21AIC303T",
+    "title": "Computer Networks and Communications",
+    "category": "Advanced",
+    "department": "Artificial Intelligence",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21CSC303J",
+    "title": "Data Science",
+    "category": "Advanced",
+    "department": "Computer Science",
+    "conflict_flag": true,
+    "conflict_note": "FLAGGED CONFLICT: Code 21CSC303J also assigned to 'Software Engineering and Project Management'. Pending official SRM verification."
+  },
+  {
+    "code": "21CSC303J",
+    "title": "Software Engineering and Project Management",
+    "category": "Advanced",
+    "department": "Computer Science",
+    "conflict_flag": true,
+    "conflict_note": "FLAGGED CONFLICT: Code 21CSC303J also assigned to 'Data Science'. Pending official SRM verification."
+  },
+  {
+    "code": "21AIC302J",
+    "title": "Software and Project Management",
+    "category": "Advanced",
+    "department": "Artificial Intelligence",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21CSC304J",
+    "title": "Compiler Design",
+    "category": "Advanced",
+    "department": "Computer Science",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21CSC302L",
+    "title": "Reinforcement Learning Techniques",
+    "category": "Advanced",
+    "department": "Computer Science",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21AIP302L",
+    "title": "Project",
+    "category": "Advanced",
+    "department": "Artificial Intelligence",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21AIP303T",
+    "title": "MOOC",
+    "category": "Advanced",
+    "department": "Artificial Intelligence",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21PDM302L",
+    "title": "Employability Skills and Practices",
+    "category": "Advanced",
+    "department": "Career Development",
+    "conflict_flag": false,
+    "conflict_note": null
+  },
+  {
+    "code": "21LEM302L",
+    "title": "Indian Traditional Knowledge",
+    "category": "Advanced",
+    "department": "Humanities",
+    "conflict_flag": true,
+    "conflict_note": "FLAGGED VARIATION: Code 21LEM302L has alternative theory suffix 21LEM302T in some SRM syllabi. Preserved as supplied for verification."
+  },
+  {
+    "code": "21GNH401T",
+    "title": "Behavioral Psychology",
+    "category": "Advanced",
+    "department": "Humanities",
+    "conflict_flag": false,
+    "conflict_note": null
+  }
+]

@@ -1,0 +1,50 @@
+# Environment Variables (CRITICAL: Do not commit or push secrets)
+.env
+.env.*
+!.env.example
+*.env
+server/.env
+server/.env.*
+!server/.env.example
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies and Build Artifacts
+node_modules
+server/node_modules
+dist
+dist-ssr
+*.local
+
+# SQLite Database Files & Backups (auto-seeded at runtime)
+*.sqlite
+*.sqlite*
+*.sqlite3
+*.db
+*.sqlite-journal
+server/*.sqlite*
+server/*.sqlite3
+server/*.db
+server/*.sqlite-journal
+
+# Uploaded User Media (keep directory structure via .gitkeep)
+server/uploads/avatars/*
+!server/uploads/avatars/.gitkeep
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
