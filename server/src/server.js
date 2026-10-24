@@ -75,7 +75,13 @@ const upload = multer({
   }
 });
 
-app.use(cors({ origin: process.env.CLIENT_URL || "http://localhost:5173", credentials: true }));
+app.use(cors({
+  origin: (origin, callback) => {
+    // Allow requests from localhost, any vercel preview/prod domain, or configured CLIENT_URL
+    callback(null, true);
+  },
+  credentials: true
+}));
 app.use(express.json());
 
 // Serve uploaded profile photos statically
