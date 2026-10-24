@@ -40,7 +40,8 @@ function formatUser(user) {
   clone.weekly_availability = typeof clone.weekly_availability === "string" ? JSON.parse(clone.weekly_availability || "[]") : (clone.weekly_availability || []);
   clone.courses = typeof clone.courses === "string" ? JSON.parse(clone.courses || "[]") : (clone.courses || []);
   if (clone.avatar && clone.avatar.startsWith("/uploads/")) {
-    clone.avatar = `http://localhost:${PORT}${clone.avatar}`;
+    const host = process.env.BASE_URL ? process.env.BASE_URL.replace(/\/+$/, "") : `http://localhost:${PORT}`;
+    clone.avatar = `${host}${clone.avatar}`;
   }
   clone.avatar_url = clone.avatar || null;
   return clone;
@@ -1169,6 +1170,10 @@ app.get("/api/v1/dev/database/table/:tableName", async (req, res) => {
   }
 });
 
-app.listen(PORT, () => {
-  console.log(`StudyBuddy backend server running on http://localhost:${PORT}`);
-});
+if (process.env.NODE_ENV !== "test" || !process.env.VERCEL) {
+  app.listen(PORT, () => {
+    console.log(`StudyBuddy backend server running on http://localhost:${PORT}`);
+  });
+}
+
+export default app;
