@@ -25,7 +25,11 @@ export default function LoginPage() {
       }
     } catch (err) {
       console.error("Google sign-in error:", err);
-      setErrorMessage(err.message || "Failed to initialize Google Sign-In.");
+      if (err.message === "Failed to fetch" || err.name === "TypeError") {
+        setErrorMessage("Cannot connect to backend server. If deployed on Vercel, please set VITE_API_URL to your live backend URL in Vercel Project Settings.");
+      } else {
+        setErrorMessage(err.message || "Failed to initialize Google Sign-In.");
+      }
       setLoading(false);
     }
   };
